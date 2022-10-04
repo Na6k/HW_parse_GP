@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup as Bs
 import requests
 import json
 
+
 class BaseParser(ABC):
     html = None
     date = []
@@ -15,21 +16,18 @@ class BaseParser(ABC):
         self._url = url
 
     def get_html(self):
-        response = requests.get(self._url, headers={'User-Agent': self._user_agent})
+        response = requests.get(self._url, headers={"User-Agent": self._user_agent})
         if response.status_code == 200:
-            self.html = Bs(response.text, features='lxml')
+            self.html = Bs(response.text, features="lxml")
             return
-        raise RuntimeError("Invalid response: status={}, text={}".format(response.status_code, response.text))  
-
+        raise RuntimeError(
+            "Invalid response: status={}, text={}".format(response.status_code, response.text)
+        )
 
     @abstractmethod
     def parse(self):
-        raise NotImplementedError('Method not implemented')
+        raise NotImplementedError("Method not implemented")
 
-    
-    def save(self, file_name):        
-        with open(file_name, 'w') as file:
+    def save(self, file_name):
+        with open(file_name, "w") as file:
             file.write(json.dumps(self.date, indent=4, ensure_ascii=False))
-
-
-
