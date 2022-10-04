@@ -4,8 +4,8 @@ import requests
 import json
 
 class BaseParser(ABC):
-    _html = None
-    _date = []
+    html = None
+    date = []
     _user_agent = (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
@@ -17,7 +17,7 @@ class BaseParser(ABC):
     def get_html(self):
         response = requests.get(self._url, headers={'User-Agent': self._user_agent})
         if response.status_code == 200:
-            self._html = Bs(response.text, features='lxml')
+            self.html = Bs(response.text, features='lxml')
             return
         raise RuntimeError("Invalid response: status={}, text={}".format(response.status_code, response.text))  
 
@@ -27,9 +27,9 @@ class BaseParser(ABC):
         raise NotImplementedError('Method not implemented')
 
     
-    def save(self, file_name):
+    def save(self, file_name):        
         with open(file_name, 'w') as file:
-            file.write(json.dumps(self._date, indent=4, ensure_ascii=False))
+            file.write(json.dumps(self.date, indent=4, ensure_ascii=False))
 
 
 

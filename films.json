@@ -1,0 +1,656 @@
+[
+    {
+        "name": "Bullet Train",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Top Gun: Maverick",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "Fall",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Vesper",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Emily The Criminal",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Dead for a Dollar",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "The Munsters (2022)",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Bodies Bodies Bodies",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Bandit",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "God's Creatures",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "The Enforcer",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Control",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Devil's Workshop",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Where the Crawdads Sing",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "ULTRAPOP: Live at the Masonic",
+        "price": [
+            "3,99 $"
+        ]
+    },
+    {
+        "name": "Avarice",
+        "price": [
+            "3,99 $"
+        ]
+    },
+    {
+        "name": "Mona Lisa and the Blood Moon",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Nix",
+        "price": [
+            "3,99 $"
+        ]
+    },
+    {
+        "name": "Thor: Love and Thunder",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Attack on Titan",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Where the Crawdads Sing",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Nope",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Jurassic World Dominion",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Thor: Love and Thunder",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Everything Everywhere All At Once",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "The Black Phone",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Top Gun: Maverick",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "Bullet Train",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Emily The Criminal",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Minions: The Rise of Gru",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "X (2022)",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "Bandit",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Элвис",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Beast (2022)",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Fall",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Vesper",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "DC League Of Super-Pets",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "The Munsters (2022)",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Avatar",
+        "price": [
+            "3,99 $"
+        ]
+    },
+    {
+        "name": "The Unbearable Weight of Massive Talent",
+        "price": [
+            "4,49 $"
+        ]
+    },
+    {
+        "name": "Top Gun - 2 Movie Collection",
+        "price": [
+            "26,99 $"
+        ]
+    },
+    {
+        "name": "Элвис",
+        "price": [
+            "12,99 $"
+        ]
+    },
+    {
+        "name": "The SpongeBob Movie: Sponge on the Run",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "The SpongeBob Squarepants Triple Feature",
+        "price": [
+            "16,99 $"
+        ]
+    },
+    {
+        "name": "Mrs. Harris Goes to Paris",
+        "price": [
+            "10,99 $"
+        ]
+    },
+    {
+        "name": "Phantom of the Open, The",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Top Gun: Maverick",
+        "price": [
+            "14,99 $"
+        ]
+    },
+    {
+        "name": "The Black Phone",
+        "price": [
+            "10,99 $"
+        ]
+    },
+    {
+        "name": "One Way",
+        "price": [
+            "10,99 $"
+        ]
+    },
+    {
+        "name": "Orphan",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Alita: Battle Angel",
+        "price": [
+            "7,99 $"
+        ]
+    },
+    {
+        "name": "Blade (1998)",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "Godzilla vs. Kong",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Mean Girls",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Prisoners",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Top Gun: Maverick",
+        "price": [
+            "14,99 $"
+        ]
+    },
+    {
+        "name": "The Black Phone",
+        "price": [
+            "10,99 $"
+        ]
+    },
+    {
+        "name": "Элвис",
+        "price": [
+            "12,99 $"
+        ]
+    },
+    {
+        "name": "Mrs. Harris Goes to Paris",
+        "price": [
+            "10,99 $"
+        ]
+    },
+    {
+        "name": "Encanto",
+        "price": [
+            "10,99 $"
+        ]
+    },
+    {
+        "name": "Blade 2: Bloodhunt",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "Top Gun - 2 Movie Collection",
+        "price": [
+            "26,99 $"
+        ]
+    },
+    {
+        "name": "Interview with the Vampire",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Dracula: Dead and Loving It",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "The Phantom of the Opera (2004)",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Demolition Man",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Falling Down",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Contact",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "The Nice Guys",
+        "price": [
+            "7,99 $"
+        ]
+    },
+    {
+        "name": "May",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Press Play",
+        "price": [
+            "2,99 $"
+        ]
+    },
+    {
+        "name": "Fonzy",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Sol",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Celeste",
+        "price": [
+            "2,99 $"
+        ]
+    },
+    {
+        "name": "It's for your own good",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "The Great Man",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "The Outsider",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Sisters",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "A Kid",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "The Country Doctor",
+        "price": [
+            "1,99 $"
+        ]
+    },
+    {
+        "name": "Max&Leon",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Binti",
+        "price": [
+            "2,99 $"
+        ]
+    },
+    {
+        "name": "Tokyo Shaking",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Granny Nanny",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Bellbird",
+        "price": [
+            "2,99 $"
+        ]
+    },
+    {
+        "name": "Party Girl",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Three Summers",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Sleepless Night in Paris (Subbed)",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
+        "name": "Confessions to dEUS",
+        "price": [
+            "2,99 $"
+        ]
+    },
+    {
+        "name": "Top Gun: Maverick",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "Thor: Love and Thunder",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Emily The Criminal",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Where the Crawdads Sing",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Vesper",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "The Munsters (2022)",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Bandit",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Dead for a Dollar",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "The Enforcer",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "God's Creatures",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Control",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Three Thousand Years Of Longing",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Avarice",
+        "price": [
+            "3,99 $"
+        ]
+    },
+    {
+        "name": "Beast (2022)",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Invitation, The",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "The Infernal Machine",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "Nix",
+        "price": [
+            "3,99 $"
+        ]
+    },
+    {
+        "name": "Confess, Fletch",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Devil's Workshop",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Invitation, The",
+        "price": [
+            "19,99 $"
+        ]
+    }
+]
