@@ -72,37 +72,19 @@
         ]
     },
     {
-        "name": "Devil's Workshop",
-        "price": [
-            "6,99 $"
-        ]
-    },
-    {
-        "name": "Where the Crawdads Sing",
-        "price": [
-            "5,99 $"
-        ]
-    },
-    {
-        "name": "ULTRAPOP: Live at the Masonic",
-        "price": [
-            "3,99 $"
-        ]
-    },
-    {
-        "name": "Avarice",
-        "price": [
-            "3,99 $"
-        ]
-    },
-    {
         "name": "Mona Lisa and the Blood Moon",
         "price": [
             "6,99 $"
         ]
     },
     {
-        "name": "Nix",
+        "name": "Devil's Workshop",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Avarice",
         "price": [
             "3,99 $"
         ]
@@ -114,9 +96,27 @@
         ]
     },
     {
-        "name": "Attack on Titan",
+        "name": "ULTRAPOP: Live at the Masonic",
         "price": [
-            "6,99 $"
+            "3,99 $"
+        ]
+    },
+    {
+        "name": "Nix",
+        "price": [
+            "3,99 $"
+        ]
+    },
+    {
+        "name": "Honk for Jesus. Save Your Soul.",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "The Infernal Machine",
+        "price": [
+            "4,99 $"
         ]
     },
     {
@@ -150,9 +150,9 @@
         ]
     },
     {
-        "name": "The Black Phone",
+        "name": "X (2022)",
         "price": [
-            "5,99 $"
+            "4,99 $"
         ]
     },
     {
@@ -168,21 +168,21 @@
         ]
     },
     {
-        "name": "Emily The Criminal",
-        "price": [
-            "6,99 $"
-        ]
-    },
-    {
         "name": "Minions: The Rise of Gru",
         "price": [
             "5,99 $"
         ]
     },
     {
-        "name": "X (2022)",
+        "name": "The Black Phone",
         "price": [
-            "4,99 $"
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "Emily The Criminal",
+        "price": [
+            "6,99 $"
         ]
     },
     {
@@ -198,12 +198,6 @@
         ]
     },
     {
-        "name": "Beast (2022)",
-        "price": [
-            "19,99 $"
-        ]
-    },
-    {
         "name": "Fall",
         "price": [
             "19,99 $"
@@ -216,15 +210,15 @@
         ]
     },
     {
-        "name": "DC League Of Super-Pets",
+        "name": "Beast (2022)",
         "price": [
             "19,99 $"
         ]
     },
     {
-        "name": "The Munsters (2022)",
+        "name": "DC League Of Super-Pets",
         "price": [
-            "5,99 $"
+            "19,99 $"
         ]
     },
     {
@@ -234,75 +228,27 @@
         ]
     },
     {
-        "name": "The Unbearable Weight of Massive Talent",
+        "name": "Invitation, The",
         "price": [
-            "4,49 $"
+            "19,99 $"
         ]
     },
     {
-        "name": "Top Gun - 2 Movie Collection",
+        "name": "Лучший стрелок",
         "price": [
-            "26,99 $"
-        ]
-    },
-    {
-        "name": "Элвис",
-        "price": [
-            "12,99 $"
-        ]
-    },
-    {
-        "name": "The SpongeBob Movie: Sponge on the Run",
-        "price": [
-            "9,99 $"
-        ]
-    },
-    {
-        "name": "The SpongeBob Squarepants Triple Feature",
-        "price": [
-            "16,99 $"
-        ]
-    },
-    {
-        "name": "Mrs. Harris Goes to Paris",
-        "price": [
-            "10,99 $"
-        ]
-    },
-    {
-        "name": "Phantom of the Open, The",
-        "price": [
-            "9,99 $"
-        ]
-    },
-    {
-        "name": "Top Gun: Maverick",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "The Black Phone",
-        "price": [
-            "10,99 $"
-        ]
-    },
-    {
-        "name": "One Way",
-        "price": [
-            "10,99 $"
-        ]
-    },
-    {
-        "name": "Orphan",
-        "price": [
-            "9,99 $"
+            "2,99 $"
         ]
     },
     {
         "name": "Alita: Battle Angel",
         "price": [
             "7,99 $"
+        ]
+    },
+    {
+        "name": "Orphan",
+        "price": [
+            "9,99 $"
         ]
     },
     {
@@ -318,21 +264,15 @@
         ]
     },
     {
-        "name": "Mean Girls",
+        "name": "Blade 2: Bloodhunt",
         "price": [
-            "9,99 $"
+            "4,99 $"
         ]
     },
     {
-        "name": "Prisoners",
+        "name": "Interview with the Vampire",
         "price": [
             "9,99 $"
-        ]
-    },
-    {
-        "name": "Top Gun: Maverick",
-        "price": [
-            "14,99 $"
         ]
     },
     {
@@ -354,25 +294,19 @@
         ]
     },
     {
+        "name": "Prisoners",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
         "name": "Encanto",
         "price": [
             "10,99 $"
         ]
     },
     {
-        "name": "Blade 2: Bloodhunt",
-        "price": [
-            "4,99 $"
-        ]
-    },
-    {
-        "name": "Top Gun - 2 Movie Collection",
-        "price": [
-            "26,99 $"
-        ]
-    },
-    {
-        "name": "Interview with the Vampire",
+        "name": "The Phantom of the Opera (2004)",
         "price": [
             "9,99 $"
         ]
@@ -384,7 +318,7 @@
         ]
     },
     {
-        "name": "The Phantom of the Opera (2004)",
+        "name": "Falling Down",
         "price": [
             "9,99 $"
         ]
@@ -396,15 +330,27 @@
         ]
     },
     {
-        "name": "Falling Down",
+        "name": "Coco",
         "price": [
             "9,99 $"
         ]
     },
     {
-        "name": "Contact",
+        "name": "The Little Vampire",
+        "price": [
+            "4,99 $"
+        ]
+    },
+    {
+        "name": "The Man from U.N.C.L.E.",
         "price": [
             "9,99 $"
+        ]
+    },
+    {
+        "name": "Creepshow",
+        "price": [
+            "7,99 $"
         ]
     },
     {
@@ -417,12 +363,6 @@
         "name": "May",
         "price": [
             "0,99 $"
-        ]
-    },
-    {
-        "name": "Press Play",
-        "price": [
-            "2,99 $"
         ]
     },
     {
@@ -534,6 +474,12 @@
         ]
     },
     {
+        "name": "In Her Name",
+        "price": [
+            "0,99 $"
+        ]
+    },
+    {
         "name": "Top Gun: Maverick",
         "price": [
             "4,99 $"
@@ -552,21 +498,9 @@
         ]
     },
     {
-        "name": "Where the Crawdads Sing",
-        "price": [
-            "5,99 $"
-        ]
-    },
-    {
         "name": "Vesper",
         "price": [
             "6,99 $"
-        ]
-    },
-    {
-        "name": "The Munsters (2022)",
-        "price": [
-            "5,99 $"
         ]
     },
     {
@@ -577,6 +511,12 @@
     },
     {
         "name": "Dead for a Dollar",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "The Munsters (2022)",
         "price": [
             "5,99 $"
         ]
@@ -594,21 +534,9 @@
         ]
     },
     {
-        "name": "Control",
-        "price": [
-            "6,99 $"
-        ]
-    },
-    {
         "name": "Three Thousand Years Of Longing",
         "price": [
-            "19,99 $"
-        ]
-    },
-    {
-        "name": "Avarice",
-        "price": [
-            "3,99 $"
+            "14,99 $"
         ]
     },
     {
@@ -630,13 +558,31 @@
         ]
     },
     {
-        "name": "Nix",
+        "name": "Confess, Fletch",
+        "price": [
+            "19,99 $"
+        ]
+    },
+    {
+        "name": "Avarice",
         "price": [
             "3,99 $"
         ]
     },
     {
-        "name": "Confess, Fletch",
+        "name": "Control",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Mona Lisa and the Blood Moon",
+        "price": [
+            "6,99 $"
+        ]
+    },
+    {
+        "name": "Invitation, The",
         "price": [
             "19,99 $"
         ]
@@ -648,9 +594,9 @@
         ]
     },
     {
-        "name": "Invitation, The",
+        "name": "Nix",
         "price": [
-            "19,99 $"
+            "3,99 $"
         ]
     }
 ]

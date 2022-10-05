@@ -42,15 +42,15 @@
         ]
     },
     {
-        "name": "Confidence Man: The Making of Donald Trump and the Breaking of America",
-        "price": [
-            "16,99 $"
-        ]
-    },
-    {
         "name": "Hell's March",
         "price": [
             "14,99 $"
+        ]
+    },
+    {
+        "name": "Confidence Man: The Making of Donald Trump and the Breaking of America",
+        "price": [
+            "16,99 $"
         ]
     },
     {
@@ -78,6 +78,18 @@
         ]
     },
     {
+        "name": "Next in Line (William Warwick Novels)",
+        "price": [
+            "14,99 $"
+        ]
+    },
+    {
+        "name": "Shrines of Gaiety: A Novel",
+        "price": [
+            "14,99 $"
+        ]
+    },
+    {
         "name": "The Skeptics' Guide to the Future: What Yesterday's Science and Science Fiction Tell Us About the World of Tomorrow",
         "price": [
             "14,99 $"
@@ -90,31 +102,19 @@
         ]
     },
     {
-        "name": "Shrines of Gaiety: A Novel",
+        "name": "The Love Prescription: Seven Days to More Intimacy, Connection, and Joy",
         "price": [
-            "14,99 $"
+            "11,99 $"
         ]
     },
     {
-        "name": "Next in Line (William Warwick Novels)",
+        "name": "House of Hunger",
         "price": [
             "14,99 $"
         ]
     },
     {
         "name": "The Shadow Murders: A Department Q Novel",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "Adrift: America in 100 Charts",
-        "price": [
-            "15,99 $"
-        ]
-    },
-    {
-        "name": "House of Hunger",
         "price": [
             "14,99 $"
         ]
@@ -600,27 +600,21 @@
         ]
     },
     {
-        "name": "How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness",
-        "price": [
-            "11,99 $"
-        ]
-    },
-    {
         "name": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
         "price": [
             "12,99 $"
         ]
     },
     {
-        "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "name": "How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness",
         "price": [
-            "9,99 $"
+            "11,99 $"
         ]
     },
     {
-        "name": "The 48 Laws of Power",
+        "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
         "price": [
-            "16,99 $"
+            "9,99 $"
         ]
     },
     {
@@ -636,27 +630,9 @@
         ]
     },
     {
-        "name": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson, 25th Anniversary Edition",
+        "name": "The 48 Laws of Power",
         "price": [
-            "12,99 $"
-        ]
-    },
-    {
-        "name": "One Small Step Can Change Your Life: The Kaizen Way",
-        "price": [
-            "9,99 $"
-        ]
-    },
-    {
-        "name": "Unfu*k Yourself: Get Out of Your Head and into Your Life",
-        "price": [
-            "13,99 $"
-        ]
-    },
-    {
-        "name": "A Hard Kick in the Nuts: What I've Learned from a Lifetime of Terrible Decisions",
-        "price": [
-            "15,99 $"
+            "16,99 $"
         ]
     },
     {
@@ -666,9 +642,39 @@
         ]
     },
     {
+        "name": "A Hard Kick in the Nuts: What I've Learned from a Lifetime of Terrible Decisions",
+        "price": [
+            "15,99 $"
+        ]
+    },
+    {
         "name": "The Four Agreements: A Practical Guide to Personal Freedom",
         "price": [
             "7,99 $"
+        ]
+    },
+    {
+        "name": "Unfu*k Yourself: Get Out of Your Head and into Your Life",
+        "price": [
+            "13,99 $"
+        ]
+    },
+    {
+        "name": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson, 25th Anniversary Edition",
+        "price": [
+            "12,99 $"
+        ]
+    },
+    {
+        "name": "The Laws of Human Nature",
+        "price": [
+            "17,99 $"
+        ]
+    },
+    {
+        "name": "One Small Step Can Change Your Life: The Kaizen Way",
+        "price": [
+            "9,99 $"
         ]
     },
     {
@@ -684,9 +690,9 @@
         ]
     },
     {
-        "name": "The Laws of Human Nature",
+        "name": "How to Keep House While Drowning: A Gentle Approach to Cleaning and Organizing",
         "price": [
-            "17,99 $"
+            "10,99 $"
         ]
     },
     {
@@ -696,27 +702,21 @@
         ]
     },
     {
-        "name": "You Owe You: Ignite Your Power, Your Purpose, and Your Why",
-        "price": [
-            "13,99 $"
-        ]
-    },
-    {
-        "name": "The 6 Phase Meditation Method: The Proven Technique to Supercharge Your Mind, Manifest Your Goals, and Make Magic in Minutes a Day",
-        "price": [
-            "13,99 $"
-        ]
-    },
-    {
-        "name": "How to Keep House While Drowning: A Gentle Approach to Cleaning and Organizing",
-        "price": [
-            "10,99 $"
-        ]
-    },
-    {
         "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
         "price": [
             "6,99 $"
+        ]
+    },
+    {
+        "name": "Get Good with Money: Ten Simple Steps to Becoming Financially Whole",
+        "price": [
+            "5,99 $"
+        ]
+    },
+    {
+        "name": "You Owe You: Ignite Your Power, Your Purpose, and Your Why",
+        "price": [
+            "13,99 $"
         ]
     }
 ]
