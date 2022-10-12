@@ -1,48 +1,6 @@
 [
     {
-        "name": "The Golden Enclaves: A Novel",
-        "price": [
-            "13,99 $"
-        ]
-    },
-    {
-        "name": "Kingdom of the Feared",
-        "price": [
-            "12,99 $"
-        ]
-    },
-    {
-        "name": "Michael Vey 8: The Parasite",
-        "price": [
-            "10,99 $"
-        ]
-    },
-    {
-        "name": "Live Wire: Long-Winded Short Stories",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "Treasure State: A Cassie Dewell Novel",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "The Winners: A Novel",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "Discipline Is Destiny: The Power of Self-Control",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "Hell's March",
+        "name": "Righteous Prey",
         "price": [
             "14,99 $"
         ]
@@ -54,69 +12,111 @@
         ]
     },
     {
-        "name": "Killing the Legends: The Lethal Danger of Celebrity",
+        "name": "Mad Honey: A Novel",
         "price": [
             "14,99 $"
         ]
     },
     {
-        "name": "Suspect",
+        "name": "Daughter of Darkness",
         "price": [
             "14,99 $"
         ]
     },
     {
-        "name": "A Billion Years: My Escape From a Life in the Highest Ranks of Scientology",
+        "name": "Our Missing Hearts: A Novel",
         "price": [
             "14,99 $"
         ]
     },
     {
-        "name": "Come On, Man!: The Truth About Joe Biden's Terrible, Horrible, No-Good, Very Bad Presidency",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "Next in Line (William Warwick Novels)",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "Shrines of Gaiety: A Novel",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "The Skeptics' Guide to the Future: What Yesterday's Science and Science Fiction Tell Us About the World of Tomorrow",
-        "price": [
-            "14,99 $"
-        ]
-    },
-    {
-        "name": "A Hard Kick in the Nuts: What I've Learned from a Lifetime of Terrible Decisions",
-        "price": [
-            "15,99 $"
-        ]
-    },
-    {
-        "name": "The Love Prescription: Seven Days to More Intimacy, Connection, and Joy",
+        "name": "Heart Bones: A Novel",
         "price": [
             "11,99 $"
         ]
     },
     {
-        "name": "House of Hunger",
+        "name": "Home Sweet Christmas: A Novel",
+        "price": [
+            "12,99 $"
+        ]
+    },
+    {
+        "name": "The Twelve Topsy-Turvy, Very Messy Days of Christmas: The New Holiday Classic People Will Be Reading for Generations",
+        "price": [
+            "12,99 $"
+        ]
+    },
+    {
+        "name": "The First to Die at the End",
+        "price": [
+            "13,99 $"
+        ]
+    },
+    {
+        "name": "Dark Whisper",
         "price": [
             "14,99 $"
         ]
     },
     {
-        "name": "The Shadow Murders: A Department Q Novel",
+        "name": "You Should Sit Down for This: A Memoir about Life, Wine, and Cookies",
+        "price": [
+            "13,99 $"
+        ]
+    },
+    {
+        "name": "Lighter: Let Go of the Past, Connect with the Present, and Expand the Future",
+        "price": [
+            "13,99 $"
+        ]
+    },
+    {
+        "name": "Holidays in Virgin River: Romance Stories for the Holidays",
+        "price": [
+            "9,99 $"
+        ]
+    },
+    {
+        "name": "Grace: President Obama and Ten Days in the Battle for America",
+        "price": [
+            "15,99 $"
+        ]
+    },
+    {
+        "name": "Long Shadows",
         "price": [
             "14,99 $"
+        ]
+    },
+    {
+        "name": "Making a Scene",
+        "price": [
+            "14,99 $"
+        ]
+    },
+    {
+        "name": "The Whalebone Theatre: A novel",
+        "price": [
+            "14,99 $"
+        ]
+    },
+    {
+        "name": "The Thousand Earths",
+        "price": [
+            "11,99 $"
+        ]
+    },
+    {
+        "name": "Cooking from the Spirit: Easy, Delicious, and Joyful Plant-Based Inspirations",
+        "price": [
+            "15,99 $"
+        ]
+    },
+    {
+        "name": "Your Greater Is Coming: Discover the Path to Your Bigger, Better, and Brighter Future",
+        "price": [
+            "10,99 $"
         ]
     },
     {
@@ -182,13 +182,13 @@
     {
         "name": "The Paper Palace: A Novel",
         "price": [
-            "10,99 $"
+            "8,99 $"
         ]
     },
     {
         "name": "Seven Days in June",
         "price": [
-            "8,99 $"
+            "11,99 $"
         ]
     },
     {
@@ -248,7 +248,7 @@
     {
         "name": "The Sandman: Preludes & Nocturnes",
         "price": [
-            "12,99 $"
+            "9,99 $"
         ]
     },
     {
@@ -350,7 +350,7 @@
     {
         "name": "Conversations with Friends: A Novel",
         "price": [
-            "10,99 $"
+            "4,99 $"
         ]
     },
     {
@@ -458,7 +458,7 @@
     {
         "name": "The Dead Romantics",
         "price": [
-            "6,99 $"
+            "9,99 $"
         ]
     },
     {
@@ -600,15 +600,9 @@
         ]
     },
     {
-        "name": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "name": "The 48 Laws of Power",
         "price": [
-            "12,99 $"
-        ]
-    },
-    {
-        "name": "How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness",
-        "price": [
-            "11,99 $"
+            "16,99 $"
         ]
     },
     {
@@ -618,31 +612,13 @@
         ]
     },
     {
-        "name": "Discipline Is Destiny: The Power of Self-Control",
+        "name": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
         "price": [
-            "14,99 $"
+            "12,99 $"
         ]
     },
     {
         "name": "12 Rules for Life: An Antidote to Chaos",
-        "price": [
-            "15,99 $"
-        ]
-    },
-    {
-        "name": "The 48 Laws of Power",
-        "price": [
-            "16,99 $"
-        ]
-    },
-    {
-        "name": "Never Split the Difference: Negotiating As If Your Life Depended On It",
-        "price": [
-            "18,99 $"
-        ]
-    },
-    {
-        "name": "A Hard Kick in the Nuts: What I've Learned from a Lifetime of Terrible Decisions",
         "price": [
             "15,99 $"
         ]
@@ -654,15 +630,21 @@
         ]
     },
     {
-        "name": "Unfu*k Yourself: Get Out of Your Head and into Your Life",
+        "name": "Discipline Is Destiny: The Power of Self-Control",
+        "price": [
+            "14,99 $"
+        ]
+    },
+    {
+        "name": "Lighter: Let Go of the Past, Connect with the Present, and Expand the Future",
         "price": [
             "13,99 $"
         ]
     },
     {
-        "name": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson, 25th Anniversary Edition",
+        "name": "What Happened to You?: Conversations on Trauma, Resilience, and Healing",
         "price": [
-            "12,99 $"
+            "14,99 $"
         ]
     },
     {
@@ -672,9 +654,9 @@
         ]
     },
     {
-        "name": "One Small Step Can Change Your Life: The Kaizen Way",
+        "name": "Attached: The New Science of Adult Attachment and How It Can Help You Find--and Keep-- Love",
         "price": [
-            "9,99 $"
+            "12,99 $"
         ]
     },
     {
@@ -684,39 +666,57 @@
         ]
     },
     {
-        "name": "Embrace the Suck: The Navy SEAL Way to an Extraordinary Life",
-        "price": [
-            "11,99 $"
-        ]
-    },
-    {
-        "name": "How to Keep House While Drowning: A Gentle Approach to Cleaning and Organizing",
-        "price": [
-            "10,99 $"
-        ]
-    },
-    {
-        "name": "Attached: The New Science of Adult Attachment and How It Can Help You Find--and Keep-- Love",
+        "name": "The Secret",
         "price": [
             "12,99 $"
         ]
     },
     {
-        "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+        "name": "How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness",
         "price": [
-            "6,99 $"
+            "11,99 $"
         ]
     },
     {
-        "name": "Get Good with Money: Ten Simple Steps to Becoming Financially Whole",
+        "name": "Cooking from the Spirit: Easy, Delicious, and Joyful Plant-Based Inspirations",
         "price": [
-            "5,99 $"
+            "15,99 $"
         ]
     },
     {
-        "name": "You Owe You: Ignite Your Power, Your Purpose, and Your Why",
+        "name": "Your Greater Is Coming: Discover the Path to Your Bigger, Better, and Brighter Future",
+        "price": [
+            "10,99 $"
+        ]
+    },
+    {
+        "name": "Discipline Equals Freedom: Field Manual Mk1-MOD1",
+        "price": [
+            "14,99 $"
+        ]
+    },
+    {
+        "name": "Deep Work: Rules for Focused Success in a Distracted World",
+        "price": [
+            "15,99 $"
+        ]
+    },
+    {
+        "name": "Unfu*k Yourself: Get Out of Your Head and into Your Life",
         "price": [
             "13,99 $"
+        ]
+    },
+    {
+        "name": "Why Men Love Bitches: From Doormat to Dreamgirl—A Woman's Guide to Holding Her Own in a Relationship",
+        "price": [
+            "11,99 $"
+        ]
+    },
+    {
+        "name": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+        "price": [
+            "18,99 $"
         ]
     }
 ]

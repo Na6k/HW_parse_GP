@@ -8,234 +8,50 @@
         ]
     },
     {
-        "name": "Subway Surfers",
-        "options": [
-            "Аркады",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "Wordscapes",
-        "options": [
-            "Словесные игры",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "Woodoku",
-        "options": [
-            "Головоломки",
-            "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "Royal Match",
-        "options": [
-            "Головоломки",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "Geometry Dash Lite",
-        "options": [
-            "Аркады",
-            "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "Майнкрафт",
-        "options": [
-            "Аркады",
-            "4,6",
-            "7,49 $"
-        ]
-    },
-    {
-        "name": "Pokémon UNITE",
+        "name": "Brawl Stars",
         "options": [
             "Экшен",
-            "4,5",
+            "4,2",
             ""
         ]
     },
     {
-        "name": "Asphalt 9: Легенды",
-        "options": [
-            "Гонки",
-            "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "CSR 2 - Drag Racing Car Games",
-        "options": [
-            "Гонки",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "UNO!™",
-        "options": [
-            "Карточные",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Tap Color Pro: Color By Number",
-        "options": [
-            "Настольные игры",
-            "4,8",
-            ""
-        ]
-    },
-    {
-        "name": "Pokémon Masters EX",
-        "options": [
-            "Ролевые",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Top Drives — карточные гонки",
-        "options": [
-            "Гонки",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Mario Kart Tour",
-        "options": [
-            "Экшен",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Galaxy Attack: Alien Shooting",
-        "options": [
-            "Аркады",
-            "4,7",
-            ""
-        ]
-    },
-    {
-        "name": "Super Mario Run",
-        "options": [
-            "Экшен",
-            "4,0",
-            ""
-        ]
-    },
-    {
-        "name": "Megapolis Строительство Города",
+        "name": "Bloons TD 6",
         "options": [
             "Стратегии",
-            "4,4",
-            ""
+            "4,8",
+            "6,99 $"
         ]
     },
     {
-        "name": "F1 Clash - Менеджер Автогонок",
+        "name": "Garena Free Fire MAX",
         "options": [
-            "Гонки",
-            "4,2",
-            ""
-        ]
-    },
-    {
-        "name": "LEGO® Star Wars™: TFA",
-        "options": [
-            "Приключения",
-            "3,6",
-            ""
-        ]
-    },
-    {
-        "name": "The Sims™ Mobile",
-        "options": [
-            "Симуляторы",
-            "4,2",
-            ""
-        ]
-    },
-    {
-        "name": "Angry Birds Journey",
-        "options": [
-            "Головоломки",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "Galaxiga: классический шутер",
-        "options": [
-            "Аркады",
-            "4,7",
-            ""
-        ]
-    },
-    {
-        "name": "TerraGenesis: эволюция планет",
-        "options": [
-            "Симуляторы",
+            "Экшен",
             "4,1",
             ""
         ]
     },
     {
-        "name": "Пасьянс: карточная игра",
+        "name": "Survivor.io",
         "options": [
-            "Карточные",
-            "4,8",
-            ""
-        ]
-    },
-    {
-        "name": "CSR 2 - Drag Racing Car Games",
-        "options": [
-            "Гонки",
+            "Приключения",
             "4,6",
             ""
         ]
     },
     {
-        "name": "Galaxy Attack: Alien Shooting",
+        "name": "Guardian Tales",
         "options": [
-            "Аркады",
-            "4,7",
+            "Ролевые",
+            "4,6",
             ""
         ]
     },
     {
-        "name": "Mario Kart Tour",
+        "name": "PBS KIDS Games",
         "options": [
-            "Экшен",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Megapolis Строительство Города",
-        "options": [
-            "Стратегии",
-            "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "Пасьянс: карточная игра",
-        "options": [
-            "Карточные",
-            "4,8",
+            "Обучающие",
+            "4,2",
             ""
         ]
     },
@@ -244,94 +60,6 @@
         "options": [
             "Стратегии",
             "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "Design Home: Real Home Decor",
-        "options": [
-            "Симуляторы",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Solitaire",
-        "options": [
-            "Карточные",
-            "4,7",
-            ""
-        ]
-    },
-    {
-        "name": "Real Racing 3",
-        "options": [
-            "Гонки",
-            "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "Solitaire Grand Harvest",
-        "options": [
-            "Карточные",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "Hill Climb Racing 2",
-        "options": [
-            "Гонки",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "My Singing Monsters",
-        "options": [
-            "Музыка",
-            "4,7",
-            ""
-        ]
-    },
-    {
-        "name": "War Machines：Tanks Battle Game",
-        "options": [
-            "Экшен",
-            "4,2",
-            ""
-        ]
-    },
-    {
-        "name": "Angry Birds 2",
-        "options": [
-            "Казуальные",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Plants vs. Zombies™ 2",
-        "options": [
-            "Казуальные",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "June’s Journey: найди предметы",
-        "options": [
-            "Приключения",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Garena Free Fire: День Booyah",
-        "options": [
-            "Экшен",
-            "4,0",
             ""
         ]
     },
@@ -344,18 +72,10 @@
         ]
     },
     {
-        "name": "MONOPOLY - Classic Board Game",
+        "name": "Jurassic World™: Игра",
         "options": [
-            "Настольные игры",
-            "4,5",
-            "4,99 $"
-        ]
-    },
-    {
-        "name": "8 Ball Pool",
-        "options": [
-            "Спортивные игры",
-            "4,5",
+            "Симуляторы",
+            "4,2",
             ""
         ]
     },
@@ -368,71 +88,15 @@
         ]
     },
     {
-        "name": "Mafia City",
+        "name": "MODERN WARSHIPS",
         "options": [
-            "Стратегии",
+            "Экшен",
             "4,5",
             ""
         ]
     },
     {
-        "name": "DRAGON BALL Z DOKKAN BATTLE",
-        "options": [
-            "Экшен",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "The Grand Mafia",
-        "options": [
-            "Стратегии",
-            "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "YAHTZEE® with Buddies",
-        "options": [
-            "Настольные игры",
-            "4,0",
-            ""
-        ]
-    },
-    {
-        "name": "Terraria",
-        "options": [
-            "Приключения",
-            "4,6",
-            "4,99 $"
-        ]
-    },
-    {
-        "name": "Pokémon GO",
-        "options": [
-            "Приключения",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Star Trek™ Fleet Command",
-        "options": [
-            "Стратегии",
-            "4,0",
-            ""
-        ]
-    },
-    {
-        "name": "Mini Metro",
-        "options": [
-            "Симуляторы",
-            "4,6",
-            "0,99 $"
-        ]
-    },
-    {
-        "name": "Candy Crush Soda Saga",
+        "name": "The Battle Cats",
         "options": [
             "Казуальные",
             "4,6",
@@ -440,127 +104,15 @@
         ]
     },
     {
-        "name": "Diablo Immortal",
-        "options": [
-            "Ролевые",
-            "3,8",
-            ""
-        ]
-    },
-    {
-        "name": "Human: Fall Flat",
+        "name": "Cookie Jam Blast",
         "options": [
             "Головоломки",
-            "3,8",
-            "4,99 $"
-        ]
-    },
-    {
-        "name": "Marvel Contest of Champions",
-        "options": [
-            "Экшен",
-            "4,3",
+            "4,5",
             ""
         ]
     },
     {
-        "name": "PUBG MOBILE",
-        "options": [
-            "Экшен",
-            "4,1",
-            ""
-        ]
-    },
-    {
-        "name": "Call of Duty Mobile Сезон 8",
-        "options": [
-            "Экшен",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Shadow of Death: Dark Knight",
-        "options": [
-            "Экшен",
-            "4,8",
-            "3,99 $"
-        ]
-    },
-    {
-        "name": "Megapolis Строительство Города",
-        "options": [
-            "Стратегии",
-            "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "The Sims™ Mobile",
-        "options": [
-            "Симуляторы",
-            "4,2",
-            ""
-        ]
-    },
-    {
-        "name": "TerraGenesis: эволюция планет",
-        "options": [
-            "Симуляторы",
-            "4,1",
-            ""
-        ]
-    },
-    {
-        "name": "Idle Theme Park Tycoon",
-        "options": [
-            "Симуляторы",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Design Home: Real Home Decor",
-        "options": [
-            "Симуляторы",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "SimCity BuildIt",
-        "options": [
-            "Симуляторы",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Кошки и суп",
-        "options": [
-            "Симуляторы",
-            "4,8",
-            ""
-        ]
-    },
-    {
-        "name": "My Singing Monsters",
-        "options": [
-            "Музыка",
-            "4,7",
-            ""
-        ]
-    },
-    {
-        "name": "The Sims™ FreePlay",
-        "options": [
-            "Симуляторы",
-            "4,1",
-            ""
-        ]
-    },
-    {
-        "name": "Волшебные королевства Disney",
+        "name": "Animal Crossing: Pocket Camp",
         "options": [
             "Симуляторы",
             "4,4",
@@ -568,186 +120,98 @@
         ]
     },
     {
-        "name": "Hay Day",
-        "options": [
-            "Казуальные",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Township",
-        "options": [
-            "Казуальные",
-            "4,4",
-            ""
-        ]
-    },
-    {
-        "name": "Hooked Inc: Рыбак-олигарх",
-        "options": [
-            "Симуляторы",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Stardew Valley",
-        "options": [
-            "Ролевые",
-            "4,6",
-            "4,99 $"
-        ]
-    },
-    {
-        "name": "Gold & Goblins: Idle Merger",
-        "options": [
-            "Симуляторы",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "King's Choice",
-        "options": [
-            "Ролевые",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Family Island: Ферма симулятор",
-        "options": [
-            "Казуальные",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "Idle Miner Tycoon: Gold & Cash",
-        "options": [
-            "Симуляторы",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "UNO!™",
-        "options": [
-            "Карточные",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Pokémon Masters EX",
-        "options": [
-            "Ролевые",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Top Drives — карточные гонки",
-        "options": [
-            "Гонки",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Super Mario Run",
-        "options": [
-            "Экшен",
-            "4,0",
-            ""
-        ]
-    },
-    {
-        "name": "The Sims™ Mobile",
-        "options": [
-            "Симуляторы",
-            "4,2",
-            ""
-        ]
-    },
-    {
-        "name": "Galaxiga: классический шутер",
-        "options": [
-            "Аркады",
-            "4,7",
-            ""
-        ]
-    },
-    {
-        "name": "TerraGenesis: эволюция планет",
-        "options": [
-            "Симуляторы",
-            "4,1",
-            ""
-        ]
-    },
-    {
-        "name": "Mafia City",
-        "options": [
-            "Стратегии",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Fruit Ninja®",
-        "options": [
-            "Аркады",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Idle Theme Park Tycoon",
-        "options": [
-            "Симуляторы",
-            "4,3",
-            ""
-        ]
-    },
-    {
-        "name": "Bowling Crew — 3D боулинг игра",
+        "name": "FIFA Футбол",
         "options": [
             "Спортивные игры",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "Candy Crush Soda Saga",
-        "options": [
-            "Казуальные",
-            "4,6",
-            ""
-        ]
-    },
-    {
-        "name": "Bubble Pop Origin! Puzzle Game",
-        "options": [
-            "Головоломки",
-            "4,5",
-            ""
-        ]
-    },
-    {
-        "name": "Clash Royale",
-        "options": [
-            "Стратегии",
             "4,4",
             ""
         ]
     },
     {
-        "name": "Solitaire Grand Harvest",
+        "name": "Plants vs. Zombies™ 2",
         "options": [
-            "Карточные",
+            "Казуальные",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Tap Color Pro: Color By Number",
+        "options": [
+            "Настольные игры",
+            "4,8",
+            ""
+        ]
+    },
+    {
+        "name": "Crossy Road",
+        "options": [
+            "Экшен",
             "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Cooking Fever: Restaurant Game",
+        "options": [
+            "Аркады",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "My Talking Angela 2",
+        "options": [
+            "Казуальные",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "My Cooking: Restaurant Game",
+        "options": [
+            "Аркады",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Idle Theme Park Tycoon",
+        "options": [
+            "Симуляторы",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "MORTAL KOMBAT: Файтинг",
+        "options": [
+            "Экшен",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Drop The Number®:Бросьте число",
+        "options": [
+            "Головоломки",
+            "4,1",
+            ""
+        ]
+    },
+    {
+        "name": "Sky Warriors: Airplane Games",
+        "options": [
+            "Экшен",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Кулинарное Безумие -Игра Повар",
+        "options": [
+            "Аркады",
+            "4,8",
             ""
         ]
     },
@@ -760,6 +224,323 @@
         ]
     },
     {
+        "name": "Легенды Дракономании",
+        "options": [
+            "Приключения",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Project Drift 2.0",
+        "options": [
+            "Гонки",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "Ultimate Bowmasters",
+        "options": [
+            "Новое",
+            "Экшен",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Skip-Bo",
+        "options": [
+            "Карточные",
+            "4,8",
+            ""
+        ]
+    },
+    {
+        "name": "NERF: Superblast",
+        "options": [
+            "Новое",
+            "Экшен",
+            "4,7",
+            ""
+        ]
+    },
+    {
+        "name": "Zoo Life: Animal Park Game",
+        "options": [
+            "Новое",
+            "Симуляторы",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Disney Mirrorverse",
+        "options": [
+            "Ролевые",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "INKS.",
+        "options": [
+            "Новое",
+            "Аркады",
+            "3,8",
+            "2,99 $"
+        ]
+    },
+    {
+        "name": "Bubble Pop Origin! Puzzle Game",
+        "options": [
+            "Головоломки",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Truckers of Europe 3",
+        "options": [
+            "Симуляторы",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "Artery Gear: Fusion",
+        "options": [
+            "Ролевые",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "One Punch Man - The Strongest",
+        "options": [
+            "Новое",
+            "Ролевые",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Guardian Tales",
+        "options": [
+            "Ролевые",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Clash Royale",
+        "options": [
+            "Стратегии",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "DRAGON BALL LEGENDS",
+        "options": [
+            "Экшен",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "Clash of Clans",
+        "options": [
+            "Стратегии",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "The Battle Cats",
+        "options": [
+            "Казуальные",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Cookie Jam Blast",
+        "options": [
+            "Головоломки",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Animal Crossing: Pocket Camp",
+        "options": [
+            "Симуляторы",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "Plants vs. Zombies™ 2",
+        "options": [
+            "Казуальные",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Crossy Road",
+        "options": [
+            "Экшен",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Cooking Fever: Restaurant Game",
+        "options": [
+            "Аркады",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "Bingo Showdown - Bingo Games",
+        "options": [
+            "Настольные игры",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Top Drives — карточные гонки",
+        "options": [
+            "Гонки",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Веселая Бинго игра - лото игры",
+        "options": [
+            "Казуальные",
+            "4,7",
+            ""
+        ]
+    },
+    {
+        "name": "The Sims™ Mobile",
+        "options": [
+            "Симуляторы",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "Puzzle Combat (Пазл Комбат)",
+        "options": [
+            "Ролевые",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "EVE Echoes",
+        "options": [
+            "Ролевые",
+            "3,8",
+            ""
+        ]
+    },
+    {
+        "name": "Майнкрафт",
+        "options": [
+            "Аркады",
+            "4,6",
+            "7,49 $"
+        ]
+    },
+    {
+        "name": "Clash of Clans",
+        "options": [
+            "Стратегии",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "MODERN WARSHIPS",
+        "options": [
+            "Экшен",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "FIFA Футбол",
+        "options": [
+            "Спортивные игры",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "Bingo Showdown - Bingo Games",
+        "options": [
+            "Настольные игры",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Top Drives — карточные гонки",
+        "options": [
+            "Гонки",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Conflict of Nations: WW3",
+        "options": [
+            "Стратегии",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "Puzzle Combat (Пазл Комбат)",
+        "options": [
+            "Ролевые",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "EVE Echoes",
+        "options": [
+            "Ролевые",
+            "3,8",
+            ""
+        ]
+    },
+    {
+        "name": "Call of Duty Mobile Сезон 8",
+        "options": [
+            "Экшен",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "MARVEL Future Fight",
+        "options": [
+            "Ролевые",
+            "3,9",
+            ""
+        ]
+    },
+    {
         "name": "Hill Climb Racing 2",
         "options": [
             "Гонки",
@@ -768,10 +549,290 @@
         ]
     },
     {
-        "name": "SimCity BuildIt",
+        "name": "Animation Throwdown: TQFC",
         "options": [
-            "Симуляторы",
+            "Приключения",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Bullet Echo",
+        "options": [
+            "Ролевые",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Z Day:Герои из Стратегии Война",
+        "options": [
+            "Стратегии",
+            "3,6",
+            ""
+        ]
+    },
+    {
+        "name": "Need for Speed: NL Гонки",
+        "options": [
+            "Гонки",
+            "4,4",
+            ""
+        ]
+    },
+    {
+        "name": "Pokémon GO",
+        "options": [
+            "Приключения",
             "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "CSR 2 - Drag Racing Car Games",
+        "options": [
+            "Гонки",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "UNO!™",
+        "options": [
+            "Карточные",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Invasion: Modern Empire",
+        "options": [
+            "Стратегии",
+            "4,1",
+            ""
+        ]
+    },
+    {
+        "name": "Crossy Road",
+        "options": [
+            "Экшен",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Contra Returns",
+        "options": [
+            "Экшен",
+            "4,0",
+            ""
+        ]
+    },
+    {
+        "name": "Call of Duty Mobile Сезон 8",
+        "options": [
+            "Экшен",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Bullet Echo",
+        "options": [
+            "Ролевые",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Pokémon GO",
+        "options": [
+            "Приключения",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Injustice 2",
+        "options": [
+            "Экшен",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Apex Legends Mobile",
+        "options": [
+            "Экшен",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Galaxy Attack: Alien Shooting",
+        "options": [
+            "Аркады",
+            "4,7",
+            ""
+        ]
+    },
+    {
+        "name": "PUBG MOBILE",
+        "options": [
+            "Экшен",
+            "4,1",
+            ""
+        ]
+    },
+    {
+        "name": "World of Tanks Blitz PVP битвы",
+        "options": [
+            "Стратегии",
+            "4,1",
+            ""
+        ]
+    },
+    {
+        "name": "War Machines：Tanks Battle Game",
+        "options": [
+            "Экшен",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "NEW STATE Mobile",
+        "options": [
+            "Экшен",
+            "3,9",
+            ""
+        ]
+    },
+    {
+        "name": "Marvel Contest of Champions",
+        "options": [
+            "Экшен",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Catalyst Black",
+        "options": [
+            "Экшен",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "Zooba: Zoo Battle Royale Game",
+        "options": [
+            "Экшен",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "Hunt Royale: Action RPG Battle",
+        "options": [
+            "Экшен",
+            "4,5",
+            ""
+        ]
+    },
+    {
+        "name": "Jurassic World К жизни",
+        "options": [
+            "Приключения",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "The King of Fighters ALLSTAR",
+        "options": [
+            "Экшен",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "Bullet Echo",
+        "options": [
+            "Ролевые",
+            "4,6",
+            ""
+        ]
+    },
+    {
+        "name": "Apex Legends Mobile",
+        "options": [
+            "Экшен",
+            "4,3",
+            ""
+        ]
+    },
+    {
+        "name": "Galaxy Attack: Alien Shooting",
+        "options": [
+            "Аркады",
+            "4,7",
+            ""
+        ]
+    },
+    {
+        "name": "PUBG MOBILE",
+        "options": [
+            "Экшен",
+            "4,1",
+            ""
+        ]
+    },
+    {
+        "name": "World of Tanks Blitz PVP битвы",
+        "options": [
+            "Стратегии",
+            "4,1",
+            ""
+        ]
+    },
+    {
+        "name": "War Machines：Tanks Battle Game",
+        "options": [
+            "Экшен",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "NEW STATE Mobile",
+        "options": [
+            "Экшен",
+            "3,9",
+            ""
+        ]
+    },
+    {
+        "name": "Diablo Immortal",
+        "options": [
+            "Ролевые",
+            "3,8",
+            ""
+        ]
+    },
+    {
+        "name": "Catalyst Black",
+        "options": [
+            "Экшен",
+            "4,2",
+            ""
+        ]
+    },
+    {
+        "name": "Zooba: Zoo Battle Royale Game",
+        "options": [
+            "Экшен",
+            "4,2",
             ""
         ]
     }

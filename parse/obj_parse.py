@@ -10,7 +10,7 @@ class Book(BaseParser):
         for item in items:
             name_box = item.select_one(".Epkrse ")
             price_box = item.select(".VfPpfd ")
-            self.date.append(
+            self.data.append(
                 {"name": name_box.text, "price": [lesson_box.text for lesson_box in price_box]}
             )
 
@@ -24,7 +24,7 @@ class Games(BaseParser):
         for item in items:
             name_box = item.select_one(".ubGTjb")
             options_box = item.select(".w2kbF")
-            self.date.append(
+            self.data.append(
                 {"name": name_box.text, "options": [tool_box.text for tool_box in options_box]}
             )
 
@@ -38,4 +38,19 @@ class Films(BaseParser):
         for item in items:
             name_box = item.select_one(".Epkrse ")
             price_box = item.select(".VfPpfd ")
-            self.date.append({"name": name_box.text, "price": [price.text for price in price_box]})
+            self.data.append({"name": name_box.text, "price": [price.text for price in price_box]})
+
+
+class Child(BaseParser):
+    def parse(self):
+        conteiner = self.html.select_one(
+            "#yDmH0d > c-wiz.SSPGKf.glB9Ve > div > div > div.N4FjMb.Z97G4e > c-wiz > div"
+        )
+        items = conteiner.select(".VfPpkd-WsjYwc")
+        for item in items:
+            name_box = item.select_one(".Epkrse ")
+            rating_box = item.select_one(".LrNMN")
+            if name_box != None and rating_box != None:
+                self.data.append({"name": name_box.text, "rating": [rating.text for rating in rating_box]})
+            else:
+                continue    

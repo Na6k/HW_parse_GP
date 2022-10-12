@@ -6,7 +6,7 @@ import json
 
 class BaseParser(ABC):
     html = None
-    date = None
+    data = None
     _user_agent = (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
@@ -14,7 +14,7 @@ class BaseParser(ABC):
 
     def __init__(self, url):
         self._url = url
-        self.date = []
+        self.data = []
 
     def get_html(self):
         response = requests.get(self._url, headers={"User-Agent": self._user_agent})
@@ -31,4 +31,4 @@ class BaseParser(ABC):
 
     def save(self, file_name):
         with open(file_name, "w") as file:
-            file.write(json.dumps(self.date, indent=4, ensure_ascii=False))
+            file.write(json.dumps(self.data, indent=4, ensure_ascii=False))
